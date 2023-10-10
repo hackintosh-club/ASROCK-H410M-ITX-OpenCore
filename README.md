@@ -2,11 +2,9 @@
 
 ![image](ScreenShot/Motherboard.png)
 
-### [简体中文](README.zh_CN.md)
-
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -42,8 +40,8 @@
 ### Notes
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
- 
+
+
 ### ScreenShot 
 
 - COOL FISH G5 PLUS
