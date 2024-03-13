@@ -4,12 +4,13 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
-- macOS Monterey 12.x
-- macOS Ventura  13.x 
+- macOS Monterey  12.x
+- macOS Ventura     13.x 
+- macOS Sonoma    14.x 
 
 ### Hardware
 
@@ -34,12 +35,12 @@
 ### Bios Setup
 
 | Name | Option |
-| ----- | --- |
+| :---: | :-: |
 
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
 
 
 ### ScreenShot 
